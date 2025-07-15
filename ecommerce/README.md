@@ -1,4 +1,4 @@
-![Preview](anasayfa.png) ![Preview](kategori.png) ![Preview](detay.png)
+
 
 
 
